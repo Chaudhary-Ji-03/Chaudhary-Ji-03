@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Ritik Kumar Choudhary  
 
-<!--
-**Chaudhary-Ji-03/Chaudhary-Ji-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE @ Chandigarh Group of Colleges (2022–2026)**  
+💻 **Backend Developer** | **C++ & DSA (500+ problems solved)**  
+🚀 **Backend Intern @Toddle** (Optimized APIs for 50k+ users)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** C++, JavaScript  
+- **Backend:** Node.js, Express.js, GraphQL, REST APIs  
+- **Databases:** PostgreSQL (CTEs, Recursive CTEs), MongoDB, MySQL  
+- **Tools:** Git, GitHub, Postman, VS Code  
+
+---
+
+## 🌟 Featured Projects
+| Project | Stack | Highlights |
+|---------|-------|-------------|
+| [Toddle Backend Project](https://github.com/Chaudhary-Ji-03/toddle-backend-project) | Node.js, GraphQL, PostgreSQL | Reduced DB calls by 35%, latency 500ms→320ms |
+| [Social Media Backend](link-to-repo) | Express.js, PostgreSQL, GraphQL | JWT Auth, Feed, CRUD posts/comments |
+| [Employee Management System](link-to-repo) | Node.js, GraphQL, Dataloader | Normalized schema, 500+ employee records |
+
+---
+
+## 📈 GitHub Stats
+![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaudhary-Ji-03&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/ritik-choudhary-3275a8276) • [LeetCode](https://leetcode.com/u/RitikKumarChoudhary)
